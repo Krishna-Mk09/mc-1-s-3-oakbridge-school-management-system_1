@@ -103,5 +103,4 @@ public class OakBridgeSchoolTest {
         assertEquals('F', oakBridgeSchool.findGradeInEnglish(48));
         assertEquals('F', oakBridgeSchool.findGradeInEnglish(34));
     }
-
 }
